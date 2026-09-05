@@ -1,7 +1,7 @@
 import streamlit as st
 from todo import load_tasks, save_tasks
 
-st.set_page_config(page_title="Todo Manager",)
+st.set_page_config(page_title="Todo Manager")
 st.title("Todo List Manager")
 
 tasks = load_tasks()
