@@ -17,4 +17,5 @@ A Todo List Manager developed using Python and Streamlit.
 
 ## Run
 pip install -r requirements.txt
+
 streamlit run app.py
